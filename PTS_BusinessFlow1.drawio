@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="77e6c97f196da883-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" value="Pool" vertex="1">
-          <mxGeometry height="855" width="960" x="70" y="36" as="geometry" />
+          <mxGeometry height="855" width="962" x="70" y="36" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" parent="77e6c97f196da883-1" style="swimlane;html=1;startSize=20;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Marketing" vertex="1">
           <mxGeometry height="835" width="160" y="20" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="TIF8XHvVFv75K-QIFAO6-12" edge="1" parent="77e6c97f196da883-2" source="TIF8XHvVFv75K-QIFAO6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TIF8XHvVFv75K-QIFAO6-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TIF8XHvVFv75K-QIFAO6-9" parent="77e6c97f196da883-2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="Client Setup" vertex="1">
+        <mxCell id="TIF8XHvVFv75K-QIFAO6-9" parent="77e6c97f196da883-2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="Client Setup&lt;br&gt;XPM" vertex="1">
           <mxGeometry height="60" width="75" x="20" y="249" as="geometry" />
         </mxCell>
         <mxCell id="TIF8XHvVFv75K-QIFAO6-16" edge="1" parent="77e6c97f196da883-2" source="TIF8XHvVFv75K-QIFAO6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TIF8XHvVFv75K-QIFAO6-15" value="">
@@ -48,8 +48,11 @@
         <mxCell id="TIF8XHvVFv75K-QIFAO6-103" parent="77e6c97f196da883-2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="XPM Invoice" vertex="1">
           <mxGeometry height="35" width="58.5" x="28" y="610" as="geometry" />
         </mxCell>
-        <mxCell id="TIF8XHvVFv75K-QIFAO6-109" parent="77e6c97f196da883-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;4X&lt;/font&gt;" vertex="1">
-          <mxGeometry height="36" width="32" x="80" y="478" as="geometry" />
+        <mxCell id="TIF8XHvVFv75K-QIFAO6-109" parent="77e6c97f196da883-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;1X&lt;/font&gt;" vertex="1">
+          <mxGeometry height="36" width="32" x="94" y="273" as="geometry" />
+        </mxCell>
+        <mxCell id="KTXAC8cRg_mJXfXTqlD4-1" parent="77e6c97f196da883-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;2X&lt;/font&gt;" vertex="1">
+          <mxGeometry height="36" width="32" x="97" y="486" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-3" parent="77e6c97f196da883-1" style="swimlane;html=1;startSize=20;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Onboarding" vertex="1">
           <mxGeometry height="835" width="160" x="160" y="20" as="geometry" />
@@ -72,11 +75,11 @@
         <mxCell id="TIF8XHvVFv75K-QIFAO6-24" parent="77e6c97f196da883-3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="&lt;div&gt;Proposal + engagement&lt;/div&gt;&lt;div&gt;&lt;div&gt;Ignition&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="64" width="99" x="22" y="328" as="geometry" />
         </mxCell>
-        <mxCell id="TIF8XHvVFv75K-QIFAO6-110" parent="77e6c97f196da883-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;1X&lt;/font&gt;" vertex="1">
-          <mxGeometry height="36" width="32" x="6" y="20" as="geometry" />
+        <mxCell id="TIF8XHvVFv75K-QIFAO6-110" parent="77e6c97f196da883-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;3X&lt;/font&gt;" vertex="1">
+          <mxGeometry height="36" width="32" y="56" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" parent="77e6c97f196da883-1" style="swimlane;html=1;startSize=20;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Documents" vertex="1">
-          <mxGeometry height="835" width="160" x="320" y="20" as="geometry" />
+          <mxGeometry height="835" width="162" x="320" y="20" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-12" parent="77e6c97f196da883-4" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="Request client docs&lt;br&gt;SuiteFiles" vertex="1">
           <mxGeometry height="60" width="100" x="30" y="140" as="geometry" />
@@ -95,11 +98,11 @@
         <mxCell id="TIF8XHvVFv75K-QIFAO6-34" parent="77e6c97f196da883-4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;ATO communication&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="90" x="30" y="728" as="geometry" />
         </mxCell>
-        <mxCell id="TIF8XHvVFv75K-QIFAO6-107" parent="77e6c97f196da883-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;2X&lt;/font&gt;" vertex="1">
-          <mxGeometry height="36" width="32" x="124" y="196" as="geometry" />
+        <mxCell id="KTXAC8cRg_mJXfXTqlD4-4" parent="77e6c97f196da883-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;5X&lt;/font&gt;" vertex="1">
+          <mxGeometry height="36" width="32" x="130" y="239" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" parent="77e6c97f196da883-1" style="swimlane;html=1;startSize=20;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Job Started" vertex="1">
-          <mxGeometry height="835" width="160" x="480" y="20" as="geometry" />
+          <mxGeometry height="835" width="160" x="482" y="20" as="geometry" />
         </mxCell>
         <mxCell id="TIF8XHvVFv75K-QIFAO6-45" edge="1" parent="77e6c97f196da883-5" source="77e6c97f196da883-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="77e6c97f196da883-17">
           <mxGeometry relative="1" as="geometry" />
@@ -115,11 +118,14 @@
         <mxCell id="77e6c97f196da883-17" parent="77e6c97f196da883-5" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="Work execution&lt;br&gt;&lt;div&gt;Karbon · tracking&lt;/div&gt;&lt;div&gt;Centerlized Communications&lt;/div&gt;" vertex="1">
           <mxGeometry height="65" width="108" x="30" y="427" as="geometry" />
         </mxCell>
-        <mxCell id="TIF8XHvVFv75K-QIFAO6-108" parent="77e6c97f196da883-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;3X&lt;/font&gt;" vertex="1">
+        <mxCell id="TIF8XHvVFv75K-QIFAO6-108" parent="77e6c97f196da883-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;6X&lt;/font&gt;" vertex="1">
           <mxGeometry height="36" width="32" y="399.5" as="geometry" />
         </mxCell>
+        <mxCell id="TIF8XHvVFv75K-QIFAO6-107" parent="77e6c97f196da883-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;4X&lt;/font&gt;" vertex="1">
+          <mxGeometry height="36" width="32" x="-27" y="140" as="geometry" />
+        </mxCell>
         <mxCell id="77e6c97f196da883-6" parent="77e6c97f196da883-1" style="swimlane;html=1;startSize=20;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Accounting" vertex="1">
-          <mxGeometry height="835" width="160" x="640" y="20" as="geometry" />
+          <mxGeometry height="835" width="160" x="642" y="20" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-18" parent="77e6c97f196da883-6" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Processing&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="39" y="429" as="geometry" />
@@ -134,7 +140,7 @@
           <mxGeometry height="60" width="100" x="33" y="621" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-7" parent="77e6c97f196da883-1" style="swimlane;html=1;startSize=20;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Finalize" vertex="1">
-          <mxGeometry height="835" width="160" x="800" y="20" as="geometry" />
+          <mxGeometry height="835" width="160" x="802" y="20" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-23" parent="77e6c97f196da883-7" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="Invoice&lt;br&gt;&lt;div&gt;Ignition / XPM&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="36" y="621" as="geometry" />
@@ -188,6 +194,9 @@
           <mxGeometry relative="1" x="-0.0578" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KTXAC8cRg_mJXfXTqlD4-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="X1: Early Client creation is causing clutter in XPM - XPM for managed work not for Transactions, this affect no only on client master, but also on the IC data, where it has to be excluded from any reporting to get the correct figures&lt;br&gt;&lt;br&gt;X2: this way create a retro action, all the work related is done and doesn&#39;t serve any purpose, unnecessary admin work&lt;br&gt;&lt;br&gt;X3: the entire onboarding is not tracked or visible in 1 place, all components require manual work, clear inefficency.&lt;br&gt;&lt;br&gt;X4: an external process not integrated with the onboarding process.&lt;br&gt;&lt;br&gt;X5: big inefficency, more risk of miss, duplication and create unnecassary admin work - small enhancement can kill this broken process&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;X6: Karbon introduced in later stage, not connected to the process, and not doing the basic tracking features.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="418" width="925" x="80" y="931" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
